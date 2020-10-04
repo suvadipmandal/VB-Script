@@ -1,0 +1,32 @@
+Type
+----
+vbOKOnly		0	Display OK button only.
+vbOKCancle		1	Display OK and Cancle buttons.
+vbAbortRetryIgnore	2	Display	Abort, Retry, and Ignore buttons.
+vbYesNoCancle		3	Display Yes, No and Cancle buttons.
+vbYesNo			4	Display Yes and No buttons.
+vbRetryCancle		5	Display Retry and Cancle buttons.
+
+Icon
+----
+vbCritical		16	Display Critical mark icon.
+vbQuestion		32	Display Question mark icon.
+vbExclamation		48	Display Exclamation mark icon.
+vbInformation		64	Diaplay Information mark icon.
+
+Action
+------
+vbDefaultButton1	0	Make First button default.
+vbDefaultButton2	256	Make Second button default.
+vbDefaultButton3	512	Make Third button default.
+vbSystemModal		4096	Make Message box remain on top of all other.
+
+Output
+------
+vbOk			1	When the OK button is clicked.
+vbCancle		2	When the Cancle button is clicked.
+vbAbort			3	When the Abort button is clicked.
+vbRetry			4	When the Retry	button is clicked.
+vbIgnore		5	When the Ignore button is clicked.
+vbYes			6	When the Yes button is clicked.
+vbNo			7	When the No button is clicked.
